@@ -9,7 +9,7 @@ define('SS_DATABASE_PASSWORD','password');
 define('SS_DATABASE_CHOOSE_NAME', true);
 
 // Force email to go to you, no matter what address is specified
-define('SS_SEND_ALL_EMAILS_TO', 'david@souldesign.net.nz');
+define('SS_SEND_ALL_EMAILS_TO', 'email@yourdomain.com');
 
 // What kind of environment is this: dev, test, or live?
 define('SS_ENVIRONMENT_TYPE','dev'); // 'dev/test/live'
